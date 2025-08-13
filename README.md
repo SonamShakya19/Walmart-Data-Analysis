@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonam Shakya</h1>
-<h3 align="center">Data Analyst | Feature Engineering Enthusiast | Turning raw logistics data into actionable insights</h3>
+<h3 align="center">Data Analyst | Retail Sales Analysis Enthusiast | Turning supermarket sales data into actionable business strategies</h3>
 
 <p align="center">
   <a href="https://colab.research.google.com/drive/1Xiv9JyGjTLFJwRtWiWvT3y41pSN72qeO" target="_blank">
