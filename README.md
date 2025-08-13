@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonam Shakya</h1>
 <h3 align="center">A passionate backend-focused data analyst from India, turning raw data into actionable insights.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonamshakya19" alt="sonamshakya19" /></a> </p>
-
-- 🔭 I’m currently working on [Avon Agro Industries Pvt. Ltd.](https://www.avonagro.com/)
-- 🌱 I’m currently learning **Data Science & Machine Learning**
-- 🤝 I’m looking for help with [Walmart Data Analysis](https://colab.research.google.com/drive/1Xiv9JyGjTLFJwRtWiWvT3y41pSN72qeO?usp=sharing)
-- 👨‍💻 All of my projects are available at [https://github.com/dashboard](https://github.com/dashboard)
-- 📫 How to reach me **sonashayvanshi563@gmail.com**
-- ⚡ Fun fact **I love solving data puzzles and finding stories hidden in numbers**
-
 ---
 
 ## 📊 Netflix TV Shows & Movies Analysis
