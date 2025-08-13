@@ -2,11 +2,8 @@
 <h3 align="center">Data Analyst | Feature Engineering Enthusiast | Turning raw logistics data into actionable insights</h3>
 
 <p align="center">
-  <a href="https://colab.research.google.com/drive/1VLf8Vt595siVnCaqdjUkl68x4UzVGzhl?usp=sharing" target="_blank">
+  <a href="https://colab.research.google.com/drive/1Xiv9JyGjTLFJwRtWiWvT3y41pSN72qeO" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
-  </a>
-  <a href="https://github.com/SonamShakya19/Delhivery-Data-Analysis---Route-DelayFeatures" target="_blank">
-    <img src="https://img.shields.io/badge/View_on-GitHub-blue" alt="View on GitHub"/>
   </a>
 </p>
 
