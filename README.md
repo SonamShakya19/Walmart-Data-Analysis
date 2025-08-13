@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sonam Shakya</h1>
-<h3 align="center">A passionate backend-focused data analyst from India, turning raw data into actionable insights.</h3>
+<h3 align="center">Data Analyst | Feature Engineering Enthusiast | Turning raw logistics data into actionable insights</h3>
+
+<p align="center">
+  <a href="https://colab.research.google.com/drive/1VLf8Vt595siVnCaqdjUkl68x4UzVGzhl?usp=sharing" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
+  </a>
+  <a href="https://github.com/SonamShakya19/Delhivery-Data-Analysis---Route-DelayFeatures" target="_blank">
+    <img src="https://img.shields.io/badge/View_on-GitHub-blue" alt="View on GitHub"/>
+  </a>
+</p>
 
 ---
 
 ## 📊 Netflix TV Shows & Movies Analysis
-
-[![View on GitHub](https://img.shields.io/badge/View_on-GitHub-blue)](https://github.com/yourusername/Netflix-TV-Shows-and-Movies-Analysis)
 
 This Python data analysis project focuses on exploring and understanding a Netflix dataset containing information about TV shows and movies available on Netflix until 2021. The dataset was obtained from Flixable, a third-party Netflix search engine, and is freely accessible on Kaggle.  
 The primary goal of this analysis is to gain insights into Netflix content distribution across genres, release years, ratings, and countries.
